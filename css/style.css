@@ -183,12 +183,14 @@ a.top-Register:hover{
 /*==========================
         03-home-css-start
 ===========================*/
-.home{
+.home {
     background: url(../imgs/main-home-img-1.jpg);
     height: 510px;
     width: auto;
+    background-color: #68686863;
     background-position: center;
     background-size: cover;
+    background-blend-mode: multiply;
 }
 .main-home {
     display: inline-block;
